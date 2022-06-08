@@ -1,4 +1,4 @@
-# ** CALCULADORA DE GORJETAS**
+# **CALCULADORA DE GORJETAS**
 ## *Primeiro projeto de front-end com HTML5, CSS3 e Javascript*
 
 
